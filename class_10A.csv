@@ -1,0 +1,10 @@
+Grade,Letter,Teacher_Name,Teacher_Last_Name,Subjects
+99,Z,Иван,Иванов,"MATH,RUSSIAN_LANG"
+
+ID,Student_Name,Student_Last_Name
+7,Имя3,Фамилия3
+3,Имя1,Фамилия1
+4,Имя4,Фамилия4
+5,Имя2,Фамилия2
+6,Имя5,Фамилия5
+8,Name0,Lastname0
